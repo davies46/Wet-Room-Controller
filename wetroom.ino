@@ -1,3 +1,6 @@
+/*
+	Mostly by Phil Davies
+*/
 #include <Arduino.h>
 #include <avr/wdt.h>
 #include "Adafruit_BMP085_U.h"
